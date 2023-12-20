@@ -12,7 +12,6 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 2. import sys
 3. get input from the user
 4. end the program
-
 ## Program:
 ```
 /*
